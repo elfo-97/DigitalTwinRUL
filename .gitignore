@@ -1,0 +1,13 @@
+# raw data: 18 GB of signals + derived tables - always regenerable, never versioned
+/data/
+
+# design document stays local, not published
+IDEA.md
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
